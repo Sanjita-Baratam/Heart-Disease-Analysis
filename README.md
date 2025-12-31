@@ -1,6 +1,11 @@
+## Project Structure
+- data/- Dataset used for analysis
+- notebook/- Colab notebook with EDA
+- README.md - Project overview
+   
 ## Heart-Disease-Analysis
 Heart Disease Data Analysis(Python)
-Performed Exploratory Data Analysis on a heart disease dataset to identify potential risk factors.Implemented data preproessing, data visualization using NumPy, Matplotlib, and Seaborn.The project demonstrates foundational data analysis skills and practical applications of python in Healthcare related datasets.
+Performed Exploratory Data Analysis on a heart disease dataset to identify potential risk factors.Implemented data preproessing, data visualization using NumPy, Matplotlib, and Seaborn.The project demonstrates foundational data analysis skills and practical applications of python in Healthcare related datasets.-- -
 The notebook demonstrates real-world clinical data handling, including missing value treatment, statistical summaries, and visual exploration.
 
 ## 📊 Dataset Description
